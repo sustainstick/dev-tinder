@@ -1,0 +1,15 @@
+{
+  "name": "divtinder",
+  "version": "1.0.0",
+  "description": "DivTinder my first Project",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js",
+   "dev" : "nodemon src/app.js"
+  },
+  "author": "SasidharReddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
